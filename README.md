@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Perry!
+ 👋 Hey, I'm Perry!
 
 <p>I'm an <strong>Electronic Engineering student</strong> exploring the world of <strong>UI/UX Design and Frontend Development</strong>. I enjoy creating visually appealing designs and turning ideas into meaningful, user-friendly digital experiences. ✨</p>
 
@@ -7,7 +7,7 @@
 
 ---
 
-## ⚡ A Few Quick Facts
+ ⚡ A Few Quick Facts
 
 - 🎓 I'm studying Electronic Engineering.
 - 🎨 Exploring UI/UX Design and creating user-centered interfaces.
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 **Design Tools**
 
@@ -49,32 +49,34 @@
 
 ---
 
-## 🚀 Featured Projects
+ 🚀 Featured Projects
 
-### 🧳 Sowwah — Tourism Platform
+ 🧳 Sowwah — Tourism Platform
 A UI/UX design concept for an Egyptian domestic tourism platform that helps users discover destinations and explore travel experiences.
 
-### 📚 Educational Courses Platform
+ 📚 Educational Courses Platform
 A digital learning platform concept focused on presenting educational courses through a clear and user-friendly interface.
 
-### ♟️ Chess Game
+ ♟️ Chess Game
 An academic project developed using C# and Object-Oriented Programming principles.
 
-### ✈️ Airport Management System
+ ✈️ Airport Management System
 An academic project developed using Java and Object-Oriented Programming principles.
 
-### 📖 College Library Database System
+ 📖 College Library Database System
 A database project designed to organize and manage college library information.
 
 ---
 
-## 🌱 What I'm Working Toward
+ 🌱 What I'm Working Toward
 
 I'm continuously developing my design and technical skills, learning from real-world projects, and exploring how thoughtful UI/UX design and clean frontend code can work together to create intuitive digital products.
 
 ---
 
 ## 🤝 Let's Connect!
+
+📧 [Email Me](mailto:nassarbardis@gmail.com)
 
 I'm always happy to learn, share ideas, and connect with people interested in design, technology, and creative problem-solving.
 
